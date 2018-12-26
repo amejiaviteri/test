@@ -1,0 +1,21 @@
+{
+  "name": "node-workshop",
+  "version": "0.0.0",
+  "description": "Este es el repositorio del Workshop de Introducción A Aplicaciones Web RealTime con NODE.JS.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qraftlabs/node-workshop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.0.0rc4",
+    "ejs": "~0.8.3",
+    "jade": "~0.27.4",
+    "socket.io": "~0.9.10",
+    "mongodb": "~1.1.11"
+  }
+}
